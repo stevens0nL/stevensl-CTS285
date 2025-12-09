@@ -21,10 +21,10 @@ By completing this assignment, you will:
 
 Before starting, ensure you have:
 
-- [ ] Python 3.8+ installed
-- [ ] Completed Flask fundamentals (you understand routes, templates, sessions)
-- [ ] Access to an LLM tool (Claude, ChatGPT, etc.)
-- [ ] Git configured and working
+- [X] Python 3.8+ installed
+- [X] Completed Flask fundamentals (you understand routes, templates, sessions)
+- [X] Access to an LLM tool (Claude, ChatGPT, etc.)
+- [X] Git configured and working
 
 ---
 
